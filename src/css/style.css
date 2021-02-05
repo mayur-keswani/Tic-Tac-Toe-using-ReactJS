@@ -1,0 +1,45 @@
+body{
+	background-color:#363636 !important;
+	background-image:url("black-box.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+ #text-heading{
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 6rem;	
+	color: #f1f1f1;
+ }
+ 
+ .gameBoard{
+
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	padding: 20px;
+	margin: auto;
+	width: 90%;
+
+	border: 1px solid #f1f1f1;
+}
+ .card 
+  {
+	width: auto;
+	height:150px;
+
+	border: 1px dotted #f1f1f1;
+	margin: auto;
+
+	display:flex;
+	align-items:center;
+	justify-content:center
+
+
+  }
+  
+  .icon{
+	 font-size: 35px;
+	 color: #363636;
+   }  
