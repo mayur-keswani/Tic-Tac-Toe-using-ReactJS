@@ -6,6 +6,8 @@ The player who succeeds in placing three of their marks in a diagonal, horizonta
 
 ![tic-tac-toe](./public/tic-tac-toe.gif)
 
+### Preview : [click here ](https://tic-for-tac-for-toe.netlify.app/)
+
 
 ## To Run
  1) Do git clone of the repository https://github.com/mayur-keswani/Tic-Tac-Toe-using-ReactJS.git.
